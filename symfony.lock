@@ -341,6 +341,9 @@
     "symfony/polyfill-php81": {
         "version": "v1.24.0"
     },
+    "symfony/polyfill-uuid": {
+        "version": "v1.24.0"
+    },
     "symfony/process": {
         "version": "v6.0.3"
     },
@@ -434,6 +437,9 @@
             "./templates/base.html.twig"
         ]
     },
+    "symfony/uid": {
+        "version": "v6.0.3"
+    },
     "symfony/validator": {
         "version": "6.0",
         "recipe": {
@@ -506,6 +512,9 @@
     },
     "symfony/yaml": {
         "version": "v6.0.3"
+    },
+    "symfonycasts/verify-email-bundle": {
+        "version": "v1.8.0"
     },
     "twig/extra-bundle": {
         "version": "v3.3.7"
